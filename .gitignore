@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos pesados de modelos de visión/IA
+*.pt
+*.onnx
+
+# Variables de entorno o configuraciones locales
+.env
